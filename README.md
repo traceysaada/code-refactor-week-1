@@ -1,5 +1,14 @@
 # 01 HTML CSS Git: Code Refactor
 
+## Changes Made:
+
+-to enable assistance for users with limitations i have added additional info so the headers and contents can be read out.
+
+also for more clarification and to make the information stand out more I have changed the text from one colour to different between headers and paragraph text.
+
+
+
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
