@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*background colour chage to define the white text more, due to image being black all text kept white*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +116,7 @@ p {
 .services img {
     max-height: 200px;
 }
-
+/*colour line added here so text and headers can show as different*/
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;

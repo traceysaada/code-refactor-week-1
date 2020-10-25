@@ -6,7 +6,13 @@
 
 also for more clarification and to make the information stand out more I have changed the text from one colour to different between headers and paragraph text.
 
+added information for changes in html.
 
+for visual clarity the benefits float was changed in colour, i beleive this makes the text clearer to read, in this section both headers & paragraphs kept white has darkening the background adds the clearer vision & doesnt conflict with the black images.
+
+there was unnecessary repartition on some of the css programe this was also condensed down.
+
+lines added to connect the lower section to the above link section.
 
 
 ## Your Task
